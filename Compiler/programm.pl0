@@ -1,0 +1,4 @@
+var U,P,I,R;
+
+procedure ProcP;
+P:=7*U*U/R/10;
